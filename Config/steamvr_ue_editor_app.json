@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.raytracedinteriors-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "F:/01_CurrentWork/03_FreelanceEducation_Backup/EpicGamesLearning/5200 - Raytraced Lighting Interiors/1/RayTracedInteriors/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "RayTracedInteriors-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
